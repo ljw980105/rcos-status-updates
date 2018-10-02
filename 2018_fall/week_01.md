@@ -1,4 +1,4 @@
-# Status Update for Week 5
+# Status Update for Week 1
 
 For the past 3 weeks I have worked on various UIs for the AutoDoorCtrl Project:
 * We created a login screen and a switch screen to open/close doors during the first 2 weeks.
