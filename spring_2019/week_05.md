@@ -1,7 +1,7 @@
 # Status Update for Week 5
 
 ## Last Week's Accomplishments
-* Fixed the error where a voiceover user may not be able to unlock the door by allowing such users to enter the unlock screen by ** shaking the device ** . 
+* Fixed the error where a voiceover user may not be able to unlock the door by allowing such users to enter the unlock screen by **shaking the device** . 
 * Basic accessibility features are done.
 
 ## This Week's Plan
